@@ -1,6 +1,6 @@
 {
   "name": "@rustjn/rust-cex",
-  "version": "1.0.88",
+  "version": "1.0.89",
   "description": "Description for rust-cex",
   "main": "src/index.js",
   "scripts": {
